@@ -17,9 +17,9 @@ Dichiariamo chi ha vinto.
 
 #### Esecuzione logica
 
-- [] L'utente sceglie un numero pari o dispari da 1 a 5;
-- [] Generare per il computer, un numero casuale da 1 a 5 utilizzando una funzione;
-- [] Sommare i due numeri ottenuti (numero utente + numero computer);
+- [X] L'utente sceglie un numero pari o dispari da 1 a 5;
+- [X] Generare per il computer, un numero casuale da 1 a 5 utilizzando una funzione;
+- [X] Sommare i due numeri ottenuti (numero utente + numero computer);
     SE pari computer perde contro utente;
     ALTRIMENTI SE dispari computer vince contro utente; 
 
@@ -27,4 +27,4 @@ Dichiariamo chi ha vinto.
 
 #### Output
 
-- [] Stampare nome vincitore.
+- [X] Stampare nome vincitore.
