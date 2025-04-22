@@ -11,3 +11,10 @@ function ePalindroma(parola) {
     }
     return true;
 }
+
+// OUTPUT //
+if (ePalindroma(parola)) {
+    console.log("La tua parola è palindroma!");
+} else {
+    console.log("La tua parola non è palindroma!");
+}

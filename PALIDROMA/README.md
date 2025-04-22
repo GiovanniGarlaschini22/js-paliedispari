@@ -17,11 +17,11 @@ NON USARE SPLIT E REVERSE!!! TUTTO CON CICLO FOR
 
 - [X] Chiedere all’utente di inserire una parola attraverso prompt;
 - [X] Creare una funzione per determinare se la parole inserita é palindroma;
-    - [] SE la parola é palindroma stampo l'esito "la tua parola é palindroma!"
-    - [] ALTRIMENTI stampo l'esito "la tua parola non é palindroma!"
+    - [X] SE la parola é palindroma stampo l'esito "la tua parola é palindroma!"
+    - [X] ALTRIMENTI stampo l'esito "la tua parola non é palindroma!"
 
 ---
 
 #### Output
 
-- [] Stampare esito.
+- [X] Stampare esito.
